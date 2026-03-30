@@ -1,0 +1,6 @@
+{
+  "errors": {
+    "internal_server_error": "An internal server error occurred",
+    "entity_not_found": "{{entity}} not found"
+  }
+}
